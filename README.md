@@ -1,5 +1,5 @@
 # Credit-card-fraud-detection-using-CNN
-![Uploading image.png…]()
+https://aihubprojects.com/wp-content/uploads/2020/01/ccfd-scaled.jpeg
 
 The CNN model is trained on historical transaction data, using labeled examples of fraudulent and non-fraudulent transactions, and then applied to predict fraud on new transactions.
 # Overview
