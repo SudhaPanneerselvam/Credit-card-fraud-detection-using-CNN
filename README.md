@@ -1,7 +1,4 @@
 # Credit-card-fraud-detection-using-CNN
-![image](https://github.com/user-attachments/assets/5c71ff64-db55-4049-9bb7-f48e11f6bf8f)
-
-
 The CNN model is trained on historical transaction data, using labeled examples of fraudulent and non-fraudulent transactions, and then applied to predict fraud on new transactions.
 # Overview
 The goal of this project is to build a machine learning model using Convolutional Neural Networks (CNN) to automatically detect fraudulent credit card transactions based on historical data. The CNN model will learn patterns and relationships from past transactions to identify potential fraud in new, unseen transactions.
